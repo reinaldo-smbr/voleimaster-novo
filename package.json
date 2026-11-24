@@ -1,7 +1,7 @@
 {
-  "name": "voleimaster",
-  "type": "module",
+  "name": "nuxt-app",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -10,11 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@hypernym/nuxt-anime": "^2.1.1",
-    "@nuxt/fonts": "^1.2.0",
-    "@nuxt/icon": "^2.6.3",
-    "nuxt": "^4.6.4",
-    "vue": "^3.5.45",
-    "vue-router": "^5.4.0"
+    "imagesloaded": "^5.0.0",
+    "isotope-layout": "^3.0.6",
+    "matches-selector": "^1.2.0",
+    "nuxt": "^3.10.1",
+    "swiper": "^8.4.7",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5"
   }
 }

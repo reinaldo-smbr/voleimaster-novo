@@ -24,7 +24,7 @@
 
 body {
   color: #fff;
-  background-color: #0f0f0f;
+  background-color: #070430;
   font-size: 16px;
   font-family: 'Poppins', sans-serif;
   font-family: 'Plus Jakarta Sans', sans-serif;
@@ -200,6 +200,12 @@ figure {
 .main-colorbg {
   background: #fd5b38 !important;
 }
+
+
+.azul-colorbg {
+  background: #1122bb !important;
+}
+
 
 .main-color2 {
   color: #caff33 !important;

@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg bord blur">
     <div class="container o-hidden">
       <a class="logo icon-img-100" href="#">
-        <img src="/assets/imgs/logo-light.png" alt="logo" />
+        <img src="/assets/imgs/fvmr-logo.png" alt="Federação de voleibol master do rio de janeiro" />
       </a>
 
       <button
@@ -37,7 +37,7 @@
               aria-haspopup="true"
               aria-expanded="false"
             >
-              <span class="rolling-text">Demos</span>
+              <span class="rolling-text">Home</span>
             </a>
             <div class="dropdown-menu mega-menu">
               <div class="container">
@@ -102,7 +102,7 @@
               aria-haspopup="true"
               aria-expanded="false"
             >
-              <span class="rolling-text">Pages</span>
+              <span class="rolling-text">Calendário</span>
             </a>
             <ul class="dropdown-menu">
               <li>
@@ -148,7 +148,7 @@
               aria-haspopup="true"
               aria-expanded="false"
             >
-              <span class="rolling-text">Portfolio</span>
+              <span class="rolling-text">Notícias</span>
             </a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="/portfolio-gallery"> Gallery </a>
@@ -182,7 +182,7 @@
               aria-haspopup="true"
               aria-expanded="false"
             >
-              <span class="rolling-text">Blogs</span>
+              <span class="rolling-text"></span>
             </a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="/blog-classic"> Blog Standerd </a>
@@ -206,9 +206,9 @@
       <div class="contact-button">
         <a
           href="/page-contact"
-          class="butn butn-sm butn-bg main-colorbg radius-5"
+          class="butn butn-sm butn-bg azul-colorbg radius-5"
         >
-          <span class="text">Let&apos;s contact</span>
+          <span class="text">FALE CONOSCO</span>
         </a>
       </div>
     </div>

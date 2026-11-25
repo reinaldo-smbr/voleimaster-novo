@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg bord blur">
     <div class="container o-hidden">
-      <a class="logo icon-img-100" href="#">
+      <a class="logo icon-img-100" href="/">
         <img src="/assets/imgs/fvmr-logo.png" alt="Federação de voleibol master do rio de janeiro" />
       </a>
 
@@ -32,7 +32,7 @@
             <a
               class="nav-link"
               data-toggle="dropdown"
-              href="#"
+              href="/"
               role="button"
               aria-haspopup="true"
               aria-expanded="false"
@@ -109,7 +109,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/page-contact">
+            <a class="nav-link" href="/contato">
               <span class="rolling-text">Fale Conosco</span>
             </a>
           </li>

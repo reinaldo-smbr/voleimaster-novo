@@ -36,7 +36,7 @@
                 <a href="/blog-grid-sideíar">NOTÍCIAS</a>
               </li>
               <li>
-                <a href="/page-contact">FALE CONOSCO</a>
+                <a href="/contato">FALE CONOSCO</a>
               </li>
             </ul>
           </div>

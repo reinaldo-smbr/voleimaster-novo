@@ -24,8 +24,6 @@ import Footer from '@/components/common/Footer';
 import Navbar from '@/components/common/Navbar';
 import Header from '@/components/page-contact/Header';
 import Contact from '@/components/page-contact/Contact';
-import Map from '@/components/page-contact/Map';
-
 // useHead({
 //   script: [{ src: '/assets/js/smoother-script.js', defer: true }],
 // });

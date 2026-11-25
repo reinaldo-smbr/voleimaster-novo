@@ -107,35 +107,38 @@
             >
               <span class="rolling-text">Notícias</span>
             </a>
-            <div class="dropdown-menu">
-              <a class="dropdown-item" href="/blog-classic"> Blog Standerd </a>
-              <a class="dropdown-item" href="/blog-grid-sidebar">
-                Grid With Sidebar
-              </a>
-              <a class="dropdown-item" href="/blog-grid-3column">
-                Grid Three Column
-              </a>
-              <a class="dropdown-item" href="/blog-details"> Blog Details </a>
-            </div>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/page-contact">
-              <span class="rolling-text">Contact Us</span>
+              <span class="rolling-text">Fale Conosco</span>
             </a>
           </li>
         </ul>
       </div>
 
       <div class="contact-button">
-        <a
-          href="/page-contact"
-          class="butn butn-sm butn-bg azul-colorbg radius-5"
-        >
-          <span class="text">FALE CONOSCO</span>
-        </a>
+       <ul class="rest social-icon d-flex align-items-center">
+              <li class="hover-this cursor-pointer">
+                <a href="#0" class="hover-anim">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
+              </li>
+              <li class="hover-this cursor-pointer ml-10">
+                <a href="#0" class="hover-anim">
+                  <i class="fab fa-youtube"></i>
+                </a>
+              </li>
+              <li class="hover-this cursor-pointer ml-10">
+                <a href="#0" class="hover-anim">
+                  <i class="fab fa-instagram"></i>
+                </a>
+              </li>
+            </ul>
       </div>
+ 
     </div>
   </nav>
+
 </template>
 
 <script setup>

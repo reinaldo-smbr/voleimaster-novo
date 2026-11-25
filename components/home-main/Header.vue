@@ -8,7 +8,7 @@
       <div class="row">
         <div class="col-lg-11">
           <div class="caption">
-            <h1>Best way to build</h1>
+            <h1>jeito facil de construir</h1>
             <div class="d-flex align-items-end">
               <div>
                 <h1 class="nowrap">

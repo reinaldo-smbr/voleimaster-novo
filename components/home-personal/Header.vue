@@ -12,7 +12,7 @@
               <span class="icon-img-30 mr-10">
                 <img src="/assets/imgs/header/hi.png" alt="" />
               </span>
-              Hello! there
+              Alô Você
             </h6>
             <h1 class="fw-700 mb-10">
               I&apos;m Oliver <span class="main-color">Jackson</span>

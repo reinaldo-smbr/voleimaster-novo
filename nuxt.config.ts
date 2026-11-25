@@ -12,9 +12,9 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'webfolio',
+      title: 'Federação de Voleibol Master do Rio de Janeiro',
       htmlAttrs: {
-        lang: 'en',
+        lang: 'pt-br',
       },
       meta: [
         {
@@ -30,15 +30,15 @@ export default defineNuxtConfig({
         },
         {
           name: 'keywords',
-          content: 'Vue Nuxtjs Template webfolio Multi-Purpose themeforest',
+          content: 'Federação de Voleibol Master do Estado do Rio de Janeiro',
         },
         {
           name: 'description',
-          content: 'webfolio - Multi-Purpose Vue Nuxtjs Template',
+          content: 'Site Ofifical da Fedeção de Voleibol Master do Estado do Rio de Janeiro',
         },
         {
           name: 'author',
-          content: 'Uicamp',
+          content: 'Reinaldo Barifouse - Agência Mais Resultado',
         },
       ],
       link: [

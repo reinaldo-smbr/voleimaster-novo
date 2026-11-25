@@ -6,13 +6,16 @@
   <Navbar />
   <div id="smooth-wrapper">
     <div id="smooth-content">
-      <main>
+      <main class="main-bg o-hidden">
         <Header />
-        <Demos />
-        <Pages />
-        <Show />
         <Marq />
-        <!-- <Testimonials /> -->
+        <About />
+        <Portfolio />
+        <Skills />
+        <Testimonials />
+        <Clients />
+        <Blog />
+        <Marq2 />
       </main>
       <Footer />
     </div>
@@ -23,20 +26,25 @@ import Lines from '@/components/common/Lines';
 import ProgressScroll from '@/components/common/ProgressScroll';
 import Cursor from '@/components/common/cusor';
 import LoadingScreen from '@/components/common/loader';
-import Demos from '@/components/landing/Demos';
-import Footer from '@/components/landing/Footer';
-import Header from '@/components/landing/Header';
-import Marq from '@/components/landing/Marq';
-import Navbar from '@/components/landing/Navbar';
-import Pages from '@/components/landing/Pages';
-import Show from '@/components/landing/Show';
-import Testimonials from '@/components/landing/Testimonials';
-import { onMounted } from 'vue';
+import Footer from '@/components/common/Footer';
+import Navbar from '@/components/common/Navbar';
+import Marq2 from '@/components/common/Marq2';
+import Header from '@/components/home-personal/Header';
+import Clients from '@/components/common/Clients';
+import Blog from '@/components/home-digital-agency/Blog';
+import Testimonials from '@/components/home-modern-studio/Testimonials';
+import Marq from '@/components/home-personal/Marq';
+import About from '@/components/home-personal/About';
+import Portfolio from '@/components/home-personal/Portfolio';
+import Skills from '@/components/home-personal/Skills';
 
 useHead({
-  link: [{ rel: 'stylesheet', href: '/landing-preview/css/preview-style.css' }],
+  bodyAttrs: {
+    class: 'home-personal',
+  },
   // script: [{ src: '/assets/js/smoother-script.js', defer: true }],
 });
+
 // onMounted(() => {
 //   gsap.registerPlugin(ScrollTrigger, ScrollSmoother);
 //   ScrollTrigger.normalizeScroll(true);

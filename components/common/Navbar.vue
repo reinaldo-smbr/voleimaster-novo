@@ -80,11 +80,11 @@
               <span class="rolling-text">A Federação</span>
             </a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="/portfolio-gallery"> Quem Somos </a>
+              <a class="dropdown-item" href="/quem-somos"> Quem Somos </a>
               <a class="dropdown-item" href="/portfolio-creative">
                 Comitê ESG
               </a>
-              <a class="dropdown-item" href="/portfolio-creative-carousel">
+              <a class="dropdown-item" href="/politicas-e-normas">
                 Políticas e Normas
               </a>
               <a class="dropdown-item" href="/portfolio-grid">
@@ -100,7 +100,7 @@
             <a
               class="nav-link"
               data-toggle="dropdown"
-              href="#"
+              href="/noticias"
               role="button"
               aria-haspopup="true"
               aria-expanded="false"

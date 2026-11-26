@@ -6,21 +6,10 @@
       <div class="sec-head mb-80">
         <div class="d-flex align-items-center">
           <div>
-            <span class="sub-title main-color mb-5">Our Specialize</span>
             <h3 class="fw-600 fz-50 text-u d-rotate wow">
               <span class="rotate-text">
-                Featured <span class="fw-200">Services.</span>
-              </span>
+                Faça download dos arquivos</span>       
             </h3>
-          </div>
-          <div class="ml-auto vi-more">
-            <nuxt-link
-              to="/page-services"
-              class="butn butn-sm butn-bord radius-30"
-            >
-              <span>View All</span>
-            </nuxt-link>
-            <span class="icon ti-arrow-top-right"></span>
           </div>
         </div>
       </div>
@@ -47,10 +36,9 @@
           </div>
           <div class="col-lg-4">
             <div class="img fit-img">
+              <a href={{service.link}}>
               <img :src="service.image" alt="" />
-              <nuxt-link to="/page-services-details">
-                <span class="ti-arrow-top-right"></span>
-              </nuxt-link>
+            </a>
             </div>
           </div>
         </div>
@@ -64,12 +52,13 @@ const services = [
   {
     id: 1,
     number: '01',
-    category: 'Web Design',
-    title: 'UI / UX',
-    subtitle: 'Design',
+    category: '',
+    title: 'Política Anticorrupção',
+    subtitle: '',
     description:
-      'We help our client succeed by creating identities, digital experiences, and print materials that communicate clearly.',
+      '',
     image: '/assets/imgs/serv-img/1.jpg',
+    link:'/assets/pdf/CodigoCondutaEtica.pdf',
   },
   {
     id: 2,

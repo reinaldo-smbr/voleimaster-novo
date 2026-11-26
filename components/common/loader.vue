@@ -6,13 +6,16 @@
     <div class="loader-wrap-heading">
       <span>
         <h2 class="load-text">
-          <span>L</span>
-          <span>o</span>
+          <span>c</span>
           <span>a</span>
-          <span>d</span>
-          <span>i</span>
-          <span>n</span>
+          <span>r</span>
+          <span>r</span>
+          <span>e</span>
           <span>g</span>
+          <span>a</span>
+          <span>n</span>
+          <span>d</span>
+          <span>o</span>
         </h2>
       </span>
     </div>

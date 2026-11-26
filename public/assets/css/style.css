@@ -220,11 +220,11 @@ figure {
 }
 
 .sub-bg {
-  background: #121212 !important;
+  background: #070430 !important;
 }
 
 .sub-bg2 {
-  background: #000 !important;
+  background: #070430!important;
 }
 
 .p-color {
@@ -3240,7 +3240,7 @@ body.loaded {
   top: 0;
   width: 100vw;
   height: 110vh;
-  fill: #121212;
+  fill: #070430;
 }
 
 .loader-wrap .loader-wrap-heading .load-text {

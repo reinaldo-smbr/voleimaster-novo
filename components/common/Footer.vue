@@ -30,10 +30,10 @@
                 <a href="/page-about">CALENDÁRIO</a>
               </li>
               <li class="mb-15">
-                <a href="/page-services">QUEM SOMOS</a>
+                <a href="/quem-somos">QUEM SOMOS</a>
               </li>
               <li class="mb-15">
-                <a href="/blog-grid-sideíar">NOTÍCIAS</a>
+                <a href="/noticias">NOTÍCIAS</a>
               </li>
               <li>
                 <a href="/contato">FALE CONOSCO</a>

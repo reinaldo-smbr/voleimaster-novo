@@ -5,7 +5,7 @@
         <div class="col-lg-4 valign">
           <div class="sec-head info-box full-width md-mb80">
             <div class="phone fz-30 fw-600 underline main-color">
-              <a href="tel:+18408412569">+1 840 841 25 69</a>
+              <a href="tel:+18408412569">(21) 99889 - 9090</a>
             </div>
             <div class="morinfo mt-50 pb-30 bord-thin-bottom">
               <h6 class="mb-15">Address</h6>
@@ -13,7 +13,7 @@
             </div>
             <div class="morinfo mt-30 pb-30 bord-thin-bottom">
               <h6 class="mb-15">Email</h6>
-              <p>Support@UiCamp.com</p>
+              <p>contato@voleimasterrj.com.br</p>
             </div>
 
             <div class="social-icon mt-50">
@@ -21,10 +21,7 @@
                 <i class="fab fa-facebook-f"></i>
               </a>
               <a href="#0">
-                <i class="fab fa-dribbble"></i>
-              </a>
-              <a href="#0">
-                <i class="fab fa-behance"></i>
+                <i class="fab fa-youtube"></i>
               </a>
               <a href="#0">
                 <i class="fab fa-instagram"></i>
@@ -35,9 +32,9 @@
         <div class="col-lg-7 offset-lg-1 valign">
           <div class="full-width">
             <div class="sec-head mb-50">
-              <h6 class="sub-title main-color mb-15">Let&lsquo;s Chat</h6>
+              <h6 class="sub-title main-color mb-15">Agradecemos o contato</h6>
               <h3 class="text-u ls1">
-                Send a <span class="fw-200">message</span>
+                Envie sua <span class="fw-200">mensagem</span>
               </h3>
             </div>
             <form class="form2">
@@ -50,7 +47,7 @@
                       v-model="formData.name"
                       type="text"
                       name="name"
-                      placeholder="Name"
+                      placeholder="Nome"
                       required
                     />
                   </div>
@@ -74,7 +71,7 @@
                       v-model="formData.subject"
                       type="text"
                       name="subject"
-                      placeholder="Subject"
+                      placeholder="Assunto"
                     />
                   </div>
                 </div>
@@ -84,7 +81,7 @@
                     <textarea
                       v-model="formData.message"
                       name="message"
-                      placeholder="Message"
+                      placeholder="Mensagem"
                       rows="4"
                       required
                     ></textarea>
@@ -94,7 +91,7 @@
                       type="submit"
                       class="butn butn-full butn-bord radius-30"
                     >
-                      <span class="text">Let&lsquo;s Talk</span>
+                      <span class="text">Enviar</span>
                     </button>
                   </div>
                 </div>

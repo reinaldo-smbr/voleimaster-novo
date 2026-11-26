@@ -6,7 +6,7 @@
           <div class="md-mb80">
             <div class="item mb-80">
               <div class="img">
-                <img src="/assets/imgs/blog/blog1.jpg" alt="" />
+                <img src="/assets/imgs/blog/blog-01.webp" alt="" />
               </div>
               <div class="content">
                 <div class="d-flex align-items-center mb-15">
@@ -38,7 +38,7 @@
             </div>
             <div class="item mb-80">
               <div class="img">
-                <img src="/assets/imgs/blog/blog2.jpg" alt="" />
+                <img src="/assets/imgs/blog/blog-02.webp" alt="" />
               </div>
               <div class="content">
                 <div class="d-flex align-items-center mb-15">
@@ -69,7 +69,7 @@
             </div>
             <div class="item">
               <div class="img">
-                <img src="/assets/imgs/blog/blog4.jpg" alt="" />
+                <img src="/assets/imgs/blog/blog-03.webp" alt="" />
               </div>
               <div class="content">
                 <div class="d-flex align-items-center mb-15">

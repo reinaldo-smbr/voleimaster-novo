@@ -9,9 +9,8 @@
       <main class="main-bg o-hidden">
         <Header />
         <Intro />
-        <Numbers />
         <Team />
-        <Marq2 />
+        <Header2 />
       </main>
       <Footer />
     </div>
@@ -26,9 +25,9 @@ import Footer from '@/components/common/Footer';
 import Navbar from '@/components/common/Navbar';
 import Marq2 from '@/components/common/Marq2';
 import Team from '@/components/home-modern-studio/Team';
-import Numbers from '@/components/page-services/Numbers';
 import Header from '@/components/page-team/Header';
 import Intro from '@/components/page-team/Intro';
+import Header2 from '@/components/home-digital-agency/Header';
 
 // useHead({
 //   script: [{ src: '/assets/js/smoother-script.js', defer: true }],

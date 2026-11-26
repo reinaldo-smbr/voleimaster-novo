@@ -1,32 +1,64 @@
 [
   {
     "img": "/assets/imgs/team/t1.png",
-    "name": "Robert De Niro",
-    "subName": "Web Developer"
+    "name": "Luiz Fernando Soares",
+    "subName": "Presidente"
   },
   {
     "img": "/assets/imgs/team/t2.png",
-    "name": "Brendan Fraser",
-    "subName": "UI/UX Designer"
+    "name": "Hércules Gusmão",
+    "subName": "Vice - Presidente"
   },
   {
     "img": "/assets/imgs/team/t3.png",
-    "name": "Ahmed Khaled",
-    "subName": "Web Designer"
+    "name": "Gilberto Bello",
+    "subName": "Diretor Geral"
   },
   {
     "img": "/assets/imgs/team/t4.png",
-    "name": "Ahmed Khaled",
-    "subName": "SEO Marckting"
+    "name": "Severo Oliveira",
+    "subName": "Diretor de Tecnologia"
   },
   {
     "img": "/assets/imgs/team/t2.png",
-    "name": "Brendan Fraser",
-    "subName": "UI/UX Designer"
+    "name": "Clinger Moraes",
+    "subName": "Diretor de Marketing / Midias Sociais"
   },
   {
     "img": "/assets/imgs/team/t3.png",
-    "name": "Ahmed Khaled",
-    "subName": "Web Designer"
+    "name": "Tomaz Melo",
+    "subName": "Diretor Financeiro"
+  },
+   {
+    "img": "/assets/imgs/team/t1.png",
+    "name": "Paulo Dib",
+    "subName": "Diretor de Novos Negócios"
+  },
+   {
+    "img": "/assets/imgs/team/t3.png",
+    "name": "Alex Sapo",
+    "subName": "Coordenador de Praia"
+  },
+   {
+    "img": "/assets/imgs/team/t2.png",
+    "name": "Alexandre Lobo",
+    "subName": "Coordenador de Quadra"
+  },
+   {
+    "img": "/assets/imgs/team/t3.png",
+    "name": "Carlos Piragibe",
+    "subName": "Arbitragem"
+  },
+   {
+    "img": "/assets/imgs/team/t3.png",
+    "name": "Flávio Azevedo",
+    "subName": "Arbitragem"
+  },
+  {
+    "img": "/assets/imgs/team/t3.png",
+    "name": "Roberto Sidney",
+    "subName": "Relações Públicas e Quadra Masculino"
   }
 ]
+
+

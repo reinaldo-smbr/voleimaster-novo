@@ -93,17 +93,12 @@
             </div>
           </li>
           <li
-            @mousemove="handleDropdownMouseMove"
-            @mouseleave="handleDropdownMouseLeave"
-            class="nav-item dropdown"
+            class="nav-item"
           >
             <a
-              class="nav-link"
-              data-bs-toggle="dropdown"
+              class="nav-link"        
               href="/noticias"
               role="button"
-              aria-haspopup="true"
-              aria-expanded="false"
             >
               <span class="rolling-text">Notícias</span>
             </a>

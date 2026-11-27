@@ -27,7 +27,6 @@ import Team from '@/components/home-modern-studio/Team';
 import Header from '@/components/page-team/Header';
 import Intro from '@/components/page-team/Intro';
 import Header2 from '@/components/home-digital-agency/Header';
-
 // useHead({
 //   script: [{ src: '/assets/js/smoother-script.js', defer: true }],
 // });

@@ -23,7 +23,6 @@ import Cursor from '@/components/common/cusor';
 import LoadingScreen from '@/components/common/loader';
 import Footer from '@/components/common/Footer';
 import Navbar from '@/components/common/Navbar';
-import Marq2 from '@/components/common/Marq2';
 import Team from '@/components/home-modern-studio/Team';
 import Header from '@/components/page-team/Header';
 import Intro from '@/components/page-team/Intro';
